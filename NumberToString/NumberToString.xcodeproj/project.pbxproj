@@ -15,6 +15,43 @@
 		2899E5220DE3E06400AC0155 /* NumberToStringViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* NumberToStringViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* NumberToStringViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* NumberToStringViewController.m */; };
+		FA0BD43A12C5148500CA4893 /* billion.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD41A12C5148500CA4893 /* billion.wav */; };
+		FA0BD43B12C5148500CA4893 /* eight.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD41B12C5148500CA4893 /* eight.wav */; };
+		FA0BD43C12C5148500CA4893 /* eighteen.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD41C12C5148500CA4893 /* eighteen.wav */; };
+		FA0BD43D12C5148500CA4893 /* eighty.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD41D12C5148500CA4893 /* eighty.wav */; };
+		FA0BD43E12C5148500CA4893 /* eleven.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD41E12C5148500CA4893 /* eleven.wav */; };
+		FA0BD43F12C5148500CA4893 /* fifteen.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD41F12C5148500CA4893 /* fifteen.wav */; };
+		FA0BD44012C5148500CA4893 /* fifty.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42012C5148500CA4893 /* fifty.wav */; };
+		FA0BD44112C5148500CA4893 /* five.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42112C5148500CA4893 /* five.wav */; };
+		FA0BD44212C5148500CA4893 /* four.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42212C5148500CA4893 /* four.wav */; };
+		FA0BD44312C5148500CA4893 /* fourteen.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42312C5148500CA4893 /* fourteen.wav */; };
+		FA0BD44412C5148500CA4893 /* forty.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42412C5148500CA4893 /* forty.wav */; };
+		FA0BD44512C5148500CA4893 /* hundred.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42512C5148500CA4893 /* hundred.wav */; };
+		FA0BD44612C5148500CA4893 /* million.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42612C5148500CA4893 /* million.wav */; };
+		FA0BD44712C5148500CA4893 /* nine.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42712C5148500CA4893 /* nine.wav */; };
+		FA0BD44812C5148500CA4893 /* nineteen.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42812C5148500CA4893 /* nineteen.wav */; };
+		FA0BD44912C5148500CA4893 /* ninety.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42912C5148500CA4893 /* ninety.wav */; };
+		FA0BD44A12C5148500CA4893 /* one.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42A12C5148500CA4893 /* one.wav */; };
+		FA0BD44C12C5148500CA4893 /* seventeen.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42C12C5148500CA4893 /* seventeen.wav */; };
+		FA0BD44D12C5148500CA4893 /* seventy.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42D12C5148500CA4893 /* seventy.wav */; };
+		FA0BD44E12C5148500CA4893 /* six.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42E12C5148500CA4893 /* six.wav */; };
+		FA0BD44F12C5148500CA4893 /* sixteen.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD42F12C5148500CA4893 /* sixteen.wav */; };
+		FA0BD45012C5148500CA4893 /* sixty.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43012C5148500CA4893 /* sixty.wav */; };
+		FA0BD45112C5148500CA4893 /* ten.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43112C5148500CA4893 /* ten.wav */; };
+		FA0BD45212C5148500CA4893 /* thirteen.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43212C5148500CA4893 /* thirteen.wav */; };
+		FA0BD45312C5148500CA4893 /* thirty.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43312C5148500CA4893 /* thirty.wav */; };
+		FA0BD45412C5148500CA4893 /* thousand.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43412C5148500CA4893 /* thousand.wav */; };
+		FA0BD45512C5148500CA4893 /* three.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43512C5148500CA4893 /* three.wav */; };
+		FA0BD45612C5148500CA4893 /* trillion.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43612C5148500CA4893 /* trillion.wav */; };
+		FA0BD45712C5148500CA4893 /* twelve.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43712C5148500CA4893 /* twelve.wav */; };
+		FA0BD45812C5148500CA4893 /* twenty.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43812C5148500CA4893 /* twenty.wav */; };
+		FA0BD45912C5148500CA4893 /* two.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD43912C5148500CA4893 /* two.wav */; };
+		FA0BD46212C5149D00CA4893 /* ANWAVFile.m in Sources */ = {isa = PBXBuildFile; fileRef = FA0BD46112C5149D00CA4893 /* ANWAVFile.m */; };
+		FA0BD46412C5162000CA4893 /* and.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD46312C5162000CA4893 /* and.wav */; };
+		FA0BD47212C516A300CA4893 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA0BD47112C516A300CA4893 /* AVFoundation.framework */; };
+		FA0BD4A412C5178D00CA4893 /* PlayerReleaseDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA0BD4A312C5178D00CA4893 /* PlayerReleaseDelegate.m */; };
+		FA0BD4E812C51AAF00CA4893 /* zero.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD4E712C51AAF00CA4893 /* zero.wav */; };
+		FA0BD4EE12C51B2300CA4893 /* seven.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA0BD4ED12C51B2300CA4893 /* seven.wav */; };
 		FA418D9912C4484D001D7845 /* ANNumberToString.m in Sources */ = {isa = PBXBuildFile; fileRef = FA418D9812C4484D001D7845 /* ANNumberToString.m */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +69,45 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* NumberToString_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NumberToString_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* NumberToString-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "NumberToString-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		FA0BD41A12C5148500CA4893 /* billion.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = billion.wav; sourceTree = "<group>"; };
+		FA0BD41B12C5148500CA4893 /* eight.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = eight.wav; sourceTree = "<group>"; };
+		FA0BD41C12C5148500CA4893 /* eighteen.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = eighteen.wav; sourceTree = "<group>"; };
+		FA0BD41D12C5148500CA4893 /* eighty.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = eighty.wav; sourceTree = "<group>"; };
+		FA0BD41E12C5148500CA4893 /* eleven.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = eleven.wav; sourceTree = "<group>"; };
+		FA0BD41F12C5148500CA4893 /* fifteen.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = fifteen.wav; sourceTree = "<group>"; };
+		FA0BD42012C5148500CA4893 /* fifty.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = fifty.wav; sourceTree = "<group>"; };
+		FA0BD42112C5148500CA4893 /* five.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = five.wav; sourceTree = "<group>"; };
+		FA0BD42212C5148500CA4893 /* four.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = four.wav; sourceTree = "<group>"; };
+		FA0BD42312C5148500CA4893 /* fourteen.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = fourteen.wav; sourceTree = "<group>"; };
+		FA0BD42412C5148500CA4893 /* forty.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = forty.wav; sourceTree = "<group>"; };
+		FA0BD42512C5148500CA4893 /* hundred.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hundred.wav; sourceTree = "<group>"; };
+		FA0BD42612C5148500CA4893 /* million.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = million.wav; sourceTree = "<group>"; };
+		FA0BD42712C5148500CA4893 /* nine.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = nine.wav; sourceTree = "<group>"; };
+		FA0BD42812C5148500CA4893 /* nineteen.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = nineteen.wav; sourceTree = "<group>"; };
+		FA0BD42912C5148500CA4893 /* ninety.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ninety.wav; sourceTree = "<group>"; };
+		FA0BD42A12C5148500CA4893 /* one.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = one.wav; sourceTree = "<group>"; };
+		FA0BD42C12C5148500CA4893 /* seventeen.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = seventeen.wav; sourceTree = "<group>"; };
+		FA0BD42D12C5148500CA4893 /* seventy.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = seventy.wav; sourceTree = "<group>"; };
+		FA0BD42E12C5148500CA4893 /* six.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = six.wav; sourceTree = "<group>"; };
+		FA0BD42F12C5148500CA4893 /* sixteen.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sixteen.wav; sourceTree = "<group>"; };
+		FA0BD43012C5148500CA4893 /* sixty.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = sixty.wav; sourceTree = "<group>"; };
+		FA0BD43112C5148500CA4893 /* ten.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ten.wav; sourceTree = "<group>"; };
+		FA0BD43212C5148500CA4893 /* thirteen.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = thirteen.wav; sourceTree = "<group>"; };
+		FA0BD43312C5148500CA4893 /* thirty.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = thirty.wav; sourceTree = "<group>"; };
+		FA0BD43412C5148500CA4893 /* thousand.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = thousand.wav; sourceTree = "<group>"; };
+		FA0BD43512C5148500CA4893 /* three.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = three.wav; sourceTree = "<group>"; };
+		FA0BD43612C5148500CA4893 /* trillion.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = trillion.wav; sourceTree = "<group>"; };
+		FA0BD43712C5148500CA4893 /* twelve.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = twelve.wav; sourceTree = "<group>"; };
+		FA0BD43812C5148500CA4893 /* twenty.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = twenty.wav; sourceTree = "<group>"; };
+		FA0BD43912C5148500CA4893 /* two.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = two.wav; sourceTree = "<group>"; };
+		FA0BD46012C5149D00CA4893 /* ANWAVFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANWAVFile.h; sourceTree = "<group>"; };
+		FA0BD46112C5149D00CA4893 /* ANWAVFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANWAVFile.m; sourceTree = "<group>"; };
+		FA0BD46312C5162000CA4893 /* and.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = and.wav; sourceTree = "<group>"; };
+		FA0BD47112C516A300CA4893 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		FA0BD4A212C5178D00CA4893 /* PlayerReleaseDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerReleaseDelegate.h; sourceTree = "<group>"; };
+		FA0BD4A312C5178D00CA4893 /* PlayerReleaseDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerReleaseDelegate.m; sourceTree = "<group>"; };
+		FA0BD4E712C51AAF00CA4893 /* zero.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = zero.wav; sourceTree = "<group>"; };
+		FA0BD4ED12C51B2300CA4893 /* seven.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = seven.wav; sourceTree = "<group>"; };
 		FA418D9712C4484D001D7845 /* ANNumberToString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ANNumberToString.h; sourceTree = "<group>"; };
 		FA418D9812C4484D001D7845 /* ANNumberToString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ANNumberToString.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -44,6 +120,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				FA0BD47212C516A300CA4893 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,12 +130,11 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				FA0BD41612C5147300CA4893 /* NumberToString */,
 				1D3623240D0F684500981E51 /* NumberToStringAppDelegate.h */,
 				1D3623250D0F684500981E51 /* NumberToStringAppDelegate.m */,
 				28D7ACF60DDB3853001CB0EB /* NumberToStringViewController.h */,
 				28D7ACF70DDB3853001CB0EB /* NumberToStringViewController.m */,
-				FA418D9712C4484D001D7845 /* ANNumberToString.h */,
-				FA418D9812C4484D001D7845 /* ANNumberToString.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -105,11 +181,67 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				FA0BD47112C516A300CA4893 /* AVFoundation.framework */,
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA0BD41612C5147300CA4893 /* NumberToString */ = {
+			isa = PBXGroup;
+			children = (
+				FA0BD46012C5149D00CA4893 /* ANWAVFile.h */,
+				FA0BD46112C5149D00CA4893 /* ANWAVFile.m */,
+				FA0BD41712C5147C00CA4893 /* Audio */,
+				FA418D9712C4484D001D7845 /* ANNumberToString.h */,
+				FA418D9812C4484D001D7845 /* ANNumberToString.m */,
+				FA0BD4A212C5178D00CA4893 /* PlayerReleaseDelegate.h */,
+				FA0BD4A312C5178D00CA4893 /* PlayerReleaseDelegate.m */,
+			);
+			name = NumberToString;
+			sourceTree = "<group>";
+		};
+		FA0BD41712C5147C00CA4893 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				FA0BD46312C5162000CA4893 /* and.wav */,
+				FA0BD41A12C5148500CA4893 /* billion.wav */,
+				FA0BD41B12C5148500CA4893 /* eight.wav */,
+				FA0BD41C12C5148500CA4893 /* eighteen.wav */,
+				FA0BD41D12C5148500CA4893 /* eighty.wav */,
+				FA0BD41E12C5148500CA4893 /* eleven.wav */,
+				FA0BD41F12C5148500CA4893 /* fifteen.wav */,
+				FA0BD42012C5148500CA4893 /* fifty.wav */,
+				FA0BD42112C5148500CA4893 /* five.wav */,
+				FA0BD42212C5148500CA4893 /* four.wav */,
+				FA0BD42312C5148500CA4893 /* fourteen.wav */,
+				FA0BD42412C5148500CA4893 /* forty.wav */,
+				FA0BD42512C5148500CA4893 /* hundred.wav */,
+				FA0BD42612C5148500CA4893 /* million.wav */,
+				FA0BD42712C5148500CA4893 /* nine.wav */,
+				FA0BD42812C5148500CA4893 /* nineteen.wav */,
+				FA0BD42912C5148500CA4893 /* ninety.wav */,
+				FA0BD42A12C5148500CA4893 /* one.wav */,
+				FA0BD4ED12C51B2300CA4893 /* seven.wav */,
+				FA0BD42C12C5148500CA4893 /* seventeen.wav */,
+				FA0BD42D12C5148500CA4893 /* seventy.wav */,
+				FA0BD42E12C5148500CA4893 /* six.wav */,
+				FA0BD42F12C5148500CA4893 /* sixteen.wav */,
+				FA0BD43012C5148500CA4893 /* sixty.wav */,
+				FA0BD43112C5148500CA4893 /* ten.wav */,
+				FA0BD43212C5148500CA4893 /* thirteen.wav */,
+				FA0BD43312C5148500CA4893 /* thirty.wav */,
+				FA0BD43412C5148500CA4893 /* thousand.wav */,
+				FA0BD43512C5148500CA4893 /* three.wav */,
+				FA0BD43612C5148500CA4893 /* trillion.wav */,
+				FA0BD43712C5148500CA4893 /* twelve.wav */,
+				FA0BD43812C5148500CA4893 /* twenty.wav */,
+				FA0BD43912C5148500CA4893 /* two.wav */,
+				FA0BD4E712C51AAF00CA4893 /* zero.wav */,
+			);
+			name = Audio;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +295,40 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* NumberToStringViewController.xib in Resources */,
+				FA0BD43A12C5148500CA4893 /* billion.wav in Resources */,
+				FA0BD43B12C5148500CA4893 /* eight.wav in Resources */,
+				FA0BD43C12C5148500CA4893 /* eighteen.wav in Resources */,
+				FA0BD43D12C5148500CA4893 /* eighty.wav in Resources */,
+				FA0BD43E12C5148500CA4893 /* eleven.wav in Resources */,
+				FA0BD43F12C5148500CA4893 /* fifteen.wav in Resources */,
+				FA0BD44012C5148500CA4893 /* fifty.wav in Resources */,
+				FA0BD44112C5148500CA4893 /* five.wav in Resources */,
+				FA0BD44212C5148500CA4893 /* four.wav in Resources */,
+				FA0BD44312C5148500CA4893 /* fourteen.wav in Resources */,
+				FA0BD44412C5148500CA4893 /* forty.wav in Resources */,
+				FA0BD44512C5148500CA4893 /* hundred.wav in Resources */,
+				FA0BD44612C5148500CA4893 /* million.wav in Resources */,
+				FA0BD44712C5148500CA4893 /* nine.wav in Resources */,
+				FA0BD44812C5148500CA4893 /* nineteen.wav in Resources */,
+				FA0BD44912C5148500CA4893 /* ninety.wav in Resources */,
+				FA0BD44A12C5148500CA4893 /* one.wav in Resources */,
+				FA0BD44C12C5148500CA4893 /* seventeen.wav in Resources */,
+				FA0BD44D12C5148500CA4893 /* seventy.wav in Resources */,
+				FA0BD44E12C5148500CA4893 /* six.wav in Resources */,
+				FA0BD44F12C5148500CA4893 /* sixteen.wav in Resources */,
+				FA0BD45012C5148500CA4893 /* sixty.wav in Resources */,
+				FA0BD45112C5148500CA4893 /* ten.wav in Resources */,
+				FA0BD45212C5148500CA4893 /* thirteen.wav in Resources */,
+				FA0BD45312C5148500CA4893 /* thirty.wav in Resources */,
+				FA0BD45412C5148500CA4893 /* thousand.wav in Resources */,
+				FA0BD45512C5148500CA4893 /* three.wav in Resources */,
+				FA0BD45612C5148500CA4893 /* trillion.wav in Resources */,
+				FA0BD45712C5148500CA4893 /* twelve.wav in Resources */,
+				FA0BD45812C5148500CA4893 /* twenty.wav in Resources */,
+				FA0BD45912C5148500CA4893 /* two.wav in Resources */,
+				FA0BD46412C5162000CA4893 /* and.wav in Resources */,
+				FA0BD4E812C51AAF00CA4893 /* zero.wav in Resources */,
+				FA0BD4EE12C51B2300CA4893 /* seven.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +343,8 @@
 				1D3623260D0F684500981E51 /* NumberToStringAppDelegate.m in Sources */,
 				28D7ACF80DDB3853001CB0EB /* NumberToStringViewController.m in Sources */,
 				FA418D9912C4484D001D7845 /* ANNumberToString.m in Sources */,
+				FA0BD46212C5149D00CA4893 /* ANWAVFile.m in Sources */,
+				FA0BD4A412C5178D00CA4893 /* PlayerReleaseDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

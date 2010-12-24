@@ -162,7 +162,10 @@
 	if ([tens length] > 0 && [hundreds length] > 0) {
 		return [hundreds stringByAppendingFormat:@" and %@", tens];
 	} else {
-		return tens;
+		if ([hundreds length] > 0) {
+			return hundreds;
+		}
+		return [NSString stringWithString:tens];
 	}
 	return hundreds;
 }
@@ -256,13 +259,60 @@
 @implementation NSNumber (ANNumberToString)
 
 - (NSString *)humanReadableString {
+	if ([self intValue] < 0) {
+		@throw [NSException exceptionWithName:@"Number too Low"
+									   reason:@"The number specified for humanReadableString is too low (less than zero"
+									 userInfo:nil];
+		return nil;
+	}
 	NSString * result = nil;
 	NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
 	ANNumberToString * nts = [[ANNumberToString alloc] init];
-	result = [[NSString alloc] initWithString:[nts stringForNumber:self]];
+	NSString * nstring = [nts stringForNumber:self];
+	result = [[NSString alloc] initWithString:nstring];
 	[nts release];
 	[pool drain];
 	return [result autorelease];
+}
+
+- (ANWAVFile *)humanAudioFile {
+	NSString * audString = [self humanReadableString];
+	// split
+	audString = [audString stringByReplacingOccurrencesOfString:@", " withString:@" space "];
+	NSArray * words = [audString componentsSeparatedByString:@" "];
+	ANWAVFile * wav = nil;
+	
+	for (NSString * _word in words) {
+		NSString * word = [_word lowercaseString];
+		if ([word length] == 0) {
+			word = @"space";
+		}
+		NSString * resource = [[[NSBundle mainBundle] resourcePath] stringByAppendingPathComponent:[word stringByAppendingPathExtension:@"wav"]];
+		if ([[NSFileManager defaultManager] fileExistsAtPath:resource]) {
+			ANWAVFile * newSound = [[ANWAVFile alloc] init];
+			[newSound loadFromFile:resource];
+			if (wav) {
+				[wav appendWAV:newSound];
+				[newSound release];
+			} else {
+				wav = newSound;
+			}
+		} else {
+			// append space
+			[wav addSecond];
+		}
+	}
+	
+	return [wav autorelease];
+}
+
+- (void)speekString {
+	ANWAVFile * sound = [self humanAudioFile];
+	NSString * path = [[NSHomeDirectory() stringByAppendingPathComponent:@"Documents"]
+					   stringByAppendingPathComponent:@"tmp.wav"];
+	[[sound wavData] writeToFile:path
+					  atomically:YES];
+	[PlayerReleaseDelegate playAudioFile:path];
 }
 
 @end

@@ -1,19 +1,55 @@
 TNumberToString
 v7
 r0
-t314856810.924945
+t314908004.051689
 cCheck dependencies
-cProcessInfoPlistFile /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/Info.plist NumberToString-Info.plist
-cCompileXIB /Users/alex/Desktop/NumberToString/MainWindow.xib
-cCompileXIB /Users/alex/Desktop/NumberToString/NumberToStringViewController.xib
-cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fqamexpzmacnfncyyxkfknmpijpw/NumberToString_Prefix.pch.gch NumberToString_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/main.o /Users/alex/Desktop/NumberToString/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringAppDelegate.o /Users/alex/Desktop/NumberToString/Classes/NumberToStringAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringViewController.o /Users/alex/Desktop/NumberToString/Classes/NumberToStringViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANNumberToString.o /Users/alex/Desktop/NumberToString/Classes/ANNumberToString.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString normal i386
-cGenerateDSYMFile /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString
-cTouch /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app
+cProcessInfoPlistFile /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/Info.plist NumberToString-Info.plist
+cCompileXIB /Users/alex/xCode/git/Jitsik/NumberToString/MainWindow.xib
+cCompileXIB /Users/alex/xCode/git/Jitsik/NumberToString/NumberToStringViewController.xib
+cCpResource build/Debug-iphonesimulator/NumberToString.app/billion.wav Classes/billion.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/eight.wav Classes/eight.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/eighteen.wav Classes/eighteen.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/eighty.wav Classes/eighty.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/eleven.wav Classes/eleven.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/fifteen.wav Classes/fifteen.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/fifty.wav Classes/fifty.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/five.wav Classes/five.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/four.wav Classes/four.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/fourteen.wav Classes/fourteen.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/forty.wav Classes/forty.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/hundred.wav Classes/hundred.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/million.wav Classes/million.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/nine.wav Classes/nine.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/nineteen.wav Classes/nineteen.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/ninety.wav Classes/ninety.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/one.wav Classes/one.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/seventeen.wav Classes/seventeen.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/seventy.wav Classes/seventy.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/six.wav Classes/six.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/sixteen.wav Classes/sixteen.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/sixty.wav Classes/sixty.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/ten.wav Classes/ten.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/thirteen.wav Classes/thirteen.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/thirty.wav Classes/thirty.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/thousand.wav Classes/thousand.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/three.wav Classes/three.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/trillion.wav Classes/trillion.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/twelve.wav Classes/twelve.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/twenty.wav Classes/twenty.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/two.wav Classes/two.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/and.wav Classes/and.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/zero.wav Classes/zero.wav
+cCpResource build/Debug-iphonesimulator/NumberToString.app/seven.wav Classes/seven.wav
+cProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch.gch NumberToString_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/main.o /Users/alex/xCode/git/Jitsik/NumberToString/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringAppDelegate.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringViewController.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANNumberToString.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANNumberToString.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANWAVFile.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANWAVFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/PlayerReleaseDelegate.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/PlayerReleaseDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString normal i386
+cGenerateDSYMFile /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString
+cTouch /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app
 
 N/Users/alex/Desktop/NumberToString/Classes/ANNumberToString.h
 c000000004D14177B00000000000001AA
@@ -125,10 +161,481 @@ t1293159428
 s368
 i<UIKit/UIKit.h>
 
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANNumberToString.h
+c000000004D14E0BC000000000000023C
+t1293213884
+s572
+i<Foundation/Foundation.h>
+i<AVFoundation/AVFoundation.h>
+i"ANWAVFile.h"
+i"PlayerReleaseDelegate.h"
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANNumberToString.m
+c000000004D14E5750000000000001DEF
+t1293215093
+s7663
+i"ANNumberToString.h"
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANWAVFile.h
+c000000004C43701C0000000000000432
+t1279488028
+s1074
+i<Foundation/Foundation.h>
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANWAVFile.m
+c000000004D14E1B10000000000001066
+t1293214129
+s4198
+i"ANWAVFile.h"
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringAppDelegate.h
+c000000004D140C040000000000000209
+t1293159428
+s521
+i<UIKit/UIKit.h>
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringAppDelegate.m
+c000000004D140C040000000000000AB8
+t1293159428
+s2744
+i"NumberToStringAppDelegate.h"
+i"NumberToStringViewController.h"
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringViewController.h
+c000000004D141831000000000000018C
+t1293162545
+s396
+i<UIKit/UIKit.h>
+i"ANNumberToString.h"
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringViewController.m
+c000000004D14E3F4000000000000079D
+t1293214708
+s1949
+i"NumberToStringViewController.h"
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/PlayerReleaseDelegate.h
+c000000004D14E027000000000000015B
+t1293213735
+s347
+i<Foundation/Foundation.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/PlayerReleaseDelegate.m
+c000000004D14E084000000000000028E
+t1293213828
+s654
+i"PlayerReleaseDelegate.h"
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/and.wav
+c000000004D14DE8C000000000000FBB0
+t1293213324
+s64432
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/billion.wav
+c000000004D14DC450000000000019D9C
+t1293212741
+s105884
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/eight.wav
+c000000004D14D9B10000000000014098
+t1293212081
+s82072
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/eighteen.wav
+c000000004D14DC6B000000000002B13C
+t1293212779
+s176444
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/eighty.wav
+c000000004D14DC8D0000000000023D40
+t1293212813
+s146752
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/eleven.wav
+c000000004D14DC67000000000001F858
+t1293212775
+s129112
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/fifteen.wav
+c000000004D14DC800000000000023D40
+t1293212800
+s146752
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/fifty.wav
+c000000004D14DC5C0000000000019D9C
+t1293212764
+s105884
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/five.wav
+c000000004D14D9860000000000018580
+t1293212038
+s99712
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/forty.wav
+c000000004D14DC540000000000019D9C
+t1293212756
+s105884
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/four.wav
+c000000004D14D97F00000000000158B4
+t1293212031
+s88244
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/fourteen.wav
+c000000004D14DC830000000000020F50
+t1293212803
+s134992
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/fourty.wav
+c000000004D14DC540000000000019D9C
+t1293212756
+s105884
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/hundred.wav
+c000000004D14DC58000000000001B370
+t1293212760
+s111472
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/million.wav
+c000000004D14DC490000000000018580
+t1293212745
+s99712
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/nine.wav
+c000000004D14D9B7000000000001B370
+t1293212087
+s111472
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/nineteen.wav
+c000000004D14DC76000000000002B13C
+t1293212790
+s176444
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ninety.wav
+c000000004D14DC51000000000001E284
+t1293212753
+s123524
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/one.wav
+c000000004D14D96700000000000158B4
+t1293212007
+s88244
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/seven.wav
+c000000004D14E3890000000000018580
+t1293214601
+s99712
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/seventeen.wav
+c000000004D14DC630000000000029920
+t1293212771
+s170272
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/seventy.wav
+c000000004D14DC41000000000002276C
+t1293212737
+s141164
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/six.wav
+c000000004D14D98D00000000000158B4
+t1293212045
+s88244
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/sixteen.wav
+c000000004D14DC600000000000028228
+t1293212768
+s164392
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/sixty.wav
+c000000004D14DC7A0000000000020F50
+t1293212794
+s134992
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ten.wav
+c000000004D14D9BE00000000000113CC
+t1293212094
+s70604
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/thirteen.wav
+c000000004D14DC730000000000023D40
+t1293212787
+s146752
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/thirty.wav
+c000000004D14DC8A0000000000016E88
+t1293212810
+s93832
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/thousand.wav
+c000000004D14DC7D000000000001CA68
+t1293212797
+s117352
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/three.wav
+c000000004D14D97A00000000000158B4
+t1293212026
+s88244
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/trillion.wav
+c000000004D14DC4D000000000001B370
+t1293212749
+s111472
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/twelve.wav
+c000000004D14DC6F0000000000018580
+t1293212783
+s99712
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/twenty.wav
+c000000004D14DC870000000000029920
+t1293212807
+s170272
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/two.wav
+c000000004D14D972000000000001B370
+t1293212018
+s111472
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/Classes/zero.wav
+c000000004D14E2F60000000000029920
+t1293214454
+s170272
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/MainWindow.xib
+c000000004D140C040000000000004E7D
+t1293159428
+s20093
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/NumberToStringViewController.xib
+c000000004D1419520000000000006077
+t1293162834
+s24695
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/NumberToString_Prefix.pch
+c000000004D140C0400000000000000C5
+t1293159428
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app
+t1293215095
+s1428
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM
+t1293215095
+s102
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/Info.plist
+t1293160714
+s619
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/MainWindow.nib
+t1293160714
+s1137
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString
+t1293215095
+s42924
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToStringViewController.nib
+t1293162836
+s2221
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/PkgInfo
+t1293160714
+s8
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/and.wav
+t1293213588
+s64432
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/billion.wav
+t1293213587
+s105884
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/eight.wav
+t1293213587
+s82072
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/eighteen.wav
+t1293213587
+s176444
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/eighty.wav
+t1293213587
+s146752
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/eleven.wav
+t1293213587
+s129112
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/fifteen.wav
+t1293213587
+s146752
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/fifty.wav
+t1293213587
+s105884
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/five.wav
+t1293213587
+s99712
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/forty.wav
+t1293214103
+s105884
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/four.wav
+t1293213587
+s88244
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/fourteen.wav
+t1293213587
+s134992
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/fourty.wav
+t1293213587
+s105884
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/hundred.wav
+t1293213588
+s111472
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/million.wav
+t1293213588
+s99712
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/nine.wav
+t1293213588
+s111472
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/nineteen.wav
+t1293213588
+s176444
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/ninety.wav
+t1293213588
+s123524
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/one.wav
+t1293213588
+s88244
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/seven.wav
+t1293214630
+s99712
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/seventeen.wav
+t1293213588
+s170272
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/seventy.wav
+t1293213588
+s141164
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/six.wav
+t1293213588
+s88244
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/sixteen.wav
+t1293213588
+s164392
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/sixty.wav
+t1293213588
+s134992
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/ten.wav
+t1293213588
+s70604
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/thirteen.wav
+t1293213588
+s146752
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/thirty.wav
+t1293213588
+s93832
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/thousand.wav
+t1293213588
+s117352
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/three.wav
+t1293213588
+s88244
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/trillion.wav
+t1293213588
+s111472
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/twelve.wav
+t1293213588
+s99712
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/twenty.wav
+t1293213588
+s170272
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/two.wav
+t1293213588
+s111472
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/zero.wav
+t1293214514
+s170272
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANNumberToString.o
+t1293215095
+s29340
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANWAVFile.o
+t1293214131
+s28864
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToString.LinkFileList
+c000000004D14E0AE000000000000039D
+t1293213870
+s925
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringAppDelegate.o
+t1293213885
+s53056
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringViewController.o
+t1293214831
+s43108
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/PlayerReleaseDelegate.o
+t1293213870
+s10872
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/main.o
+t1293213590
+s6372
+
+N/Users/alex/xCode/git/Jitsik/NumberToString/main.m
+c000000004D140C040000000000000170
+t1293159428
+s368
+i<UIKit/UIKit.h>
+
 N/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
 c000000004CC128950000000000000110
 t1287727253
 s272
+
+N/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
 
 N/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 c000000004CC12246000000000029B310
@@ -155,6 +662,10 @@ c000000004CC12883000000000074D7B0
 t1287727235
 s7657392
 
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch.gch
+t1293213589
+s15461584
+
 N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fqamexpzmacnfncyyxkfknmpijpw/NumberToString_Prefix.pch.gch
 t1293160715
 s15461584
@@ -166,7 +677,7 @@ s909
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies314856810#314856810#0(0"0(0#1#0"8617456864#0"0#
+lSLF07#2@18"Check dependencies314908004#314908004#0(0"0(0#1#0"8613736512#0"0#
 
 CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANNumberToString.o /Users/alex/Desktop/NumberToString/Classes/ANNumberToString.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s314856810.732669
@@ -181,6 +692,32 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@69"Compile /Users/alex/Desktop/NumberToString/Classes/ANNumberToString.m314856810#314856810#0(0"0(0#0#61"/Users/alex/Desktop/NumberToString/Classes/ANNumberToString.m8621609088#2102"    cd /Users/alex/Desktop/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator -I/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fqamexpzmacnfncyyxkfknmpijpw/NumberToString_Prefix.pch -c /Users/alex/Desktop/NumberToString/Classes/ANNumberToString.m -o /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANNumberToString.o0#
 
+CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANNumberToString.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANNumberToString.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314907895.534834
+e314907895.734786
+r1
+xCompileC
+xbuild/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANNumberToString.o
+x/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANNumberToString.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANNumberToString.m314907895#314907895#0(0"0(0#0#70"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANNumberToString.m8613929792#2201"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -I/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch -c /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANNumberToString.m -o /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANNumberToString.o0#
+
+CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANWAVFile.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANWAVFile.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314906931.808214
+e314906931.968831
+r1
+xCompileC
+xbuild/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANWAVFile.o
+x/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANWAVFile.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANWAVFile.m314906931#314906931#0(0"0(0#0#63"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANWAVFile.m8621682528#2187"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -I/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch -c /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ANWAVFile.m -o /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/ANWAVFile.o0#
+
 CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringAppDelegate.o /Users/alex/Desktop/NumberToString/Classes/NumberToStringAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s314855636.694472
 e314855636.792616
@@ -193,6 +730,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@78"Compile /Users/alex/Desktop/NumberToString/Classes/NumberToStringAppDelegate.m314855636#314855636#0(0"0(0#0#70"/Users/alex/Desktop/NumberToString/Classes/NumberToStringAppDelegate.m8616570592#2120"    cd /Users/alex/Desktop/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator -I/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fqamexpzmacnfncyyxkfknmpijpw/NumberToString_Prefix.pch -c /Users/alex/Desktop/NumberToString/Classes/NumberToStringAppDelegate.m -o /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringAppDelegate.o0#
+
+CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringAppDelegate.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314906685.765566
+e314906685.878878
+r1
+xCompileC
+xbuild/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringAppDelegate.o
+x/Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringAppDelegate.m314906685#314906685#0(0"0(0#0#79"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringAppDelegate.m8621490976#2219"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -I/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch -c /Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringAppDelegate.m -o /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringAppDelegate.o0#
 
 CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringViewController.o /Users/alex/Desktop/NumberToString/Classes/NumberToStringViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s314855859.642374
@@ -207,6 +757,32 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@81"Compile /Users/alex/Desktop/NumberToString/Classes/NumberToStringViewController.m314855859#314855859#0(0"0(0#0#73"/Users/alex/Desktop/NumberToString/Classes/NumberToStringViewController.m8618642336#2126"    cd /Users/alex/Desktop/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator -I/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fqamexpzmacnfncyyxkfknmpijpw/NumberToString_Prefix.pch -c /Users/alex/Desktop/NumberToString/Classes/NumberToStringViewController.m -o /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringViewController.o0#
 
+CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringViewController.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314907631.405967
+e314907631.579478
+r1
+xCompileC
+xbuild/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringViewController.o
+x/Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringViewController.m314907631#314907631#0(0"0(0#0#82"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringViewController.m5633848538429612032#2225"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -I/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch -c /Users/alex/xCode/git/Jitsik/NumberToString/Classes/NumberToStringViewController.m -o /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToStringViewController.o0#
+
+CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/PlayerReleaseDelegate.o /Users/alex/xCode/git/Jitsik/NumberToString/Classes/PlayerReleaseDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314906670.406822
+e314906670.591874
+r1
+xCompileC
+xbuild/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/PlayerReleaseDelegate.o
+x/Users/alex/xCode/git/Jitsik/NumberToString/Classes/PlayerReleaseDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/alex/xCode/git/Jitsik/NumberToString/Classes/PlayerReleaseDelegate.m314906670#314906670#0(0"0(0#0#75"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/PlayerReleaseDelegate.m8623265536#2211"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -I/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch -c /Users/alex/xCode/git/Jitsik/NumberToString/Classes/PlayerReleaseDelegate.m -o /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/PlayerReleaseDelegate.o0#
+
 CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/main.o /Users/alex/Desktop/NumberToString/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s314853516.162710
 e314853516.224721
@@ -219,6 +795,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@49"Compile /Users/alex/Desktop/NumberToString/main.m314853516#314853516#0(0"0(0#0#41"/Users/alex/Desktop/NumberToString/main.m8605569216#2070"    cd /Users/alex/Desktop/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator -I/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fqamexpzmacnfncyyxkfknmpijpw/NumberToString_Prefix.pch -c /Users/alex/Desktop/NumberToString/main.m -o /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/main.o0#
+
+CCompileC build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/main.o /Users/alex/xCode/git/Jitsik/NumberToString/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314906390.119888
+e314906390.436614
+r1
+xCompileC
+xbuild/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/main.o
+x/Users/alex/xCode/git/Jitsik/NumberToString/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/alex/xCode/git/Jitsik/NumberToString/main.m314906390#314906390#0(0"0(0#0#50"/Users/alex/xCode/git/Jitsik/NumberToString/main.m8621557120#2169"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -I/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch -c /Users/alex/xCode/git/Jitsik/NumberToString/main.m -o /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/alex/Desktop/NumberToString/MainWindow.xib
 s314853514.472790
@@ -236,6 +825,327 @@ xCompileXIB
 x/Users/alex/Desktop/NumberToString/NumberToStringViewController.xib
 lSLF07#2@43"CompileXIB NumberToStringViewController.xib314855636#314855636#0(0"0(0#0#67"/Users/alex/Desktop/NumberToString/NumberToStringViewController.xib8617719904#661"    cd /Users/alex/Desktop/NumberToString    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToStringViewController.nib /Users/alex/Desktop/NumberToString/NumberToStringViewController.xib --sdk /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
 
+CCompileXIB /Users/alex/xCode/git/Jitsik/NumberToString/MainWindow.xib
+r0
+
+CCompileXIB /Users/alex/xCode/git/Jitsik/NumberToString/NumberToStringViewController.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/and.wav Classes/and.wav
+s314906388.236950
+e314906388.538673
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/and.wav
+xClasses/and.wav
+lSLF07#2@20"Copy Classes/and.wav314906388#314906388#0(0"0(0#0#59"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/and.wav8619839264#540"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/and.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/billion.wav Classes/billion.wav
+s314906387.781553
+e314906388.074728
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/billion.wav
+xClasses/billion.wav
+lSLF07#2@24"Copy Classes/billion.wav314906387#314906388#0(0"0(0#0#63"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/billion.wav30399748462739504#544"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/billion.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/eight.wav Classes/eight.wav
+s314906387.805840
+e314906388.073128
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/eight.wav
+xClasses/eight.wav
+lSLF07#2@22"Copy Classes/eight.wav314906387#314906388#0(0"0(0#0#61"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/eight.wav8620223904#542"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/eight.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/eighteen.wav Classes/eighteen.wav
+s314906387.806831
+e314906388.134151
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/eighteen.wav
+xClasses/eighteen.wav
+lSLF07#2@25"Copy Classes/eighteen.wav314906387#314906388#0(0"0(0#0#64"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/eighteen.wav8619628832#545"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/eighteen.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/eighty.wav Classes/eighty.wav
+s314906387.807670
+e314906388.125081
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/eighty.wav
+xClasses/eighty.wav
+lSLF07#2@23"Copy Classes/eighty.wav314906387#314906388#0(0"0(0#0#62"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/eighty.wav8614619808#543"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/eighty.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/eleven.wav Classes/eleven.wav
+s314906387.808951
+e314906388.125264
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/eleven.wav
+xClasses/eleven.wav
+lSLF07#2@23"Copy Classes/eleven.wav314906387#314906388#0(0"0(0#0#62"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/eleven.wav8607030144#543"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/eleven.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/fifteen.wav Classes/fifteen.wav
+s314906387.809807
+e314906388.125450
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/fifteen.wav
+xClasses/fifteen.wav
+lSLF07#2@24"Copy Classes/fifteen.wav314906387#314906388#0(0"0(0#0#63"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/fifteen.wav8604158336#544"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/fifteen.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/fifty.wav Classes/fifty.wav
+s314906387.811085
+e314906388.122398
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/fifty.wav
+xClasses/fifty.wav
+lSLF07#2@22"Copy Classes/fifty.wav314906387#314906388#0(0"0(0#0#61"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/fifty.wav8600681376#542"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/fifty.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/five.wav Classes/five.wav
+s314906387.811828
+e314906388.134324
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/five.wav
+xClasses/five.wav
+lSLF07#2@21"Copy Classes/five.wav314906387#314906388#0(0"0(0#0#60"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/five.wav8621612032#541"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/five.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/forty.wav Classes/forty.wav
+s314906903.888463
+e314906903.907053
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/forty.wav
+xClasses/forty.wav
+lSLF07#2@22"Copy Classes/forty.wav314906903#314906903#0(0"0(0#0#61"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/forty.wav8624273184#542"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/forty.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/four.wav Classes/four.wav
+s314906387.812532
+e314906387.988206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/four.wav
+xClasses/four.wav
+lSLF07#2@21"Copy Classes/four.wav314906387#314906388#0(0"0(0#0#60"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/four.wav8620202688#541"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/four.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/fourteen.wav Classes/fourteen.wav
+s314906387.813193
+e314906388.175001
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/fourteen.wav
+xClasses/fourteen.wav
+lSLF07#2@25"Copy Classes/fourteen.wav314906387#314906388#0(0"0(0#0#64"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/fourteen.wav8615821056#545"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/fourteen.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/fourty.wav Classes/fourty.wav
+s314906387.988359
+e314906388.138266
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/fourty.wav
+xClasses/fourty.wav
+lSLF07#2@23"Copy Classes/fourty.wav314906387#314906388#0(0"0(0#0#62"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/fourty.wav32933049023201328#543"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/fourty.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/hundred.wav Classes/hundred.wav
+s314906388.073333
+e314906388.199252
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/hundred.wav
+xClasses/hundred.wav
+lSLF07#2@24"Copy Classes/hundred.wav314906388#314906388#0(0"0(0#0#63"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/hundred.wav8622396032#544"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/hundred.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/million.wav Classes/million.wav
+s314906388.074823
+e314906388.174663
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/million.wav
+xClasses/million.wav
+lSLF07#2@24"Copy Classes/million.wav314906388#314906388#0(0"0(0#0#63"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/million.wav8621656896#544"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/million.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/nine.wav Classes/nine.wav
+s314906388.122523
+e314906388.146201
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/nine.wav
+xClasses/nine.wav
+lSLF07#2@21"Copy Classes/nine.wav314906388#314906388#0(0"0(0#0#60"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/nine.wav8620523808#541"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/nine.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/nineteen.wav Classes/nineteen.wav
+s314906388.125546
+e314906388.319461
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/nineteen.wav
+xClasses/nineteen.wav
+lSLF07#2@25"Copy Classes/nineteen.wav314906388#314906388#0(0"0(0#0#64"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/nineteen.wav8620247040#545"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/nineteen.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/ninety.wav Classes/ninety.wav
+s314906388.127059
+e314906388.164219
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/ninety.wav
+xClasses/ninety.wav
+lSLF07#2@23"Copy Classes/ninety.wav314906388#314906388#0(0"0(0#0#62"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ninety.wav8622953344#543"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ninety.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/one.wav Classes/one.wav
+s314906388.129271
+e314906388.164362
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/one.wav
+xClasses/one.wav
+lSLF07#2@20"Copy Classes/one.wav314906388#314906388#0(0"0(0#0#59"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/one.wav8620919040#540"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/one.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/seven.wav Classes/seven.wav
+s314907430.627120
+e314907430.646634
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/seven.wav
+xClasses/seven.wav
+lSLF07#2@22"Copy Classes/seven.wav314907430#314907430#0(0"0(0#0#61"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/seven.wav8623908736#542"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/seven.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/seventeen.wav Classes/seventeen.wav
+s314906388.136565
+e314906388.253073
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/seventeen.wav
+xClasses/seventeen.wav
+lSLF07#2@26"Copy Classes/seventeen.wav314906388#314906388#0(0"0(0#0#65"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/seventeen.wav8601834624#546"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/seventeen.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/seventy.wav Classes/seventy.wav
+s314906388.138331
+e314906388.174896
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/seventy.wav
+xClasses/seventy.wav
+lSLF07#2@24"Copy Classes/seventy.wav314906388#314906388#0(0"0(0#0#63"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/seventy.wav8620266176#544"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/seventy.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/six.wav Classes/six.wav
+s314906388.146284
+e314906388.199367
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/six.wav
+xClasses/six.wav
+lSLF07#2@20"Copy Classes/six.wav314906388#314906388#0(0"0(0#0#59"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/six.wav8614133984#540"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/six.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/sixteen.wav Classes/sixteen.wav
+s314906388.164434
+e314906388.240938
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/sixteen.wav
+xClasses/sixteen.wav
+lSLF07#2@24"Copy Classes/sixteen.wav314906388#314906388#0(0"0(0#0#63"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/sixteen.wav8605906848#544"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/sixteen.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/sixty.wav Classes/sixty.wav
+s314906388.169532
+e314906388.241041
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/sixty.wav
+xClasses/sixty.wav
+lSLF07#2@22"Copy Classes/sixty.wav314906388#314906388#0(0"0(0#0#61"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/sixty.wav8619933504#542"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/sixty.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/ten.wav Classes/ten.wav
+s314906388.175068
+e314906388.240717
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/ten.wav
+xClasses/ten.wav
+lSLF07#2@20"Copy Classes/ten.wav314906388#314906388#0(0"0(0#0#59"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/ten.wav8614747840#540"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/ten.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/thirteen.wav Classes/thirteen.wav
+s314906388.177658
+e314906388.206522
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/thirteen.wav
+xClasses/thirteen.wav
+lSLF07#2@25"Copy Classes/thirteen.wav314906388#314906388#0(0"0(0#0#64"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/thirteen.wav8623230752#545"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/thirteen.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/thirty.wav Classes/thirty.wav
+s314906388.194088
+e314906388.229929
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/thirty.wav
+xClasses/thirty.wav
+lSLF07#2@23"Copy Classes/thirty.wav314906388#314906388#0(0"0(0#0#62"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/thirty.wav8621557344#543"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/thirty.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/thousand.wav Classes/thousand.wav
+s314906388.196952
+e314906388.230084
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/thousand.wav
+xClasses/thousand.wav
+lSLF07#2@25"Copy Classes/thousand.wav314906388#314906388#0(0"0(0#0#64"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/thousand.wav8620743008#545"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/thousand.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/three.wav Classes/three.wav
+s314906388.199429
+e314906388.240834
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/three.wav
+xClasses/three.wav
+lSLF07#2@22"Copy Classes/three.wav314906388#314906388#0(0"0(0#0#61"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/three.wav8620272352#542"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/three.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/trillion.wav Classes/trillion.wav
+s314906388.201373
+e314906388.229697
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/trillion.wav
+xClasses/trillion.wav
+lSLF07#2@25"Copy Classes/trillion.wav314906388#314906388#0(0"0(0#0#64"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/trillion.wav8620107584#545"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/trillion.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/twelve.wav Classes/twelve.wav
+s314906388.206606
+e314906388.250077
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/twelve.wav
+xClasses/twelve.wav
+lSLF07#2@23"Copy Classes/twelve.wav314906388#314906388#0(0"0(0#0#62"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/twelve.wav8619778272#543"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/twelve.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/twenty.wav Classes/twenty.wav
+s314906388.230153
+e314906388.249888
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/twenty.wav
+xClasses/twenty.wav
+lSLF07#2@23"Copy Classes/twenty.wav314906388#314906388#0(0"0(0#0#62"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/twenty.wav8606008576#543"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/twenty.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/two.wav Classes/two.wav
+s314906388.234769
+e314906388.253198
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/two.wav
+xClasses/two.wav
+lSLF07#2@20"Copy Classes/two.wav314906388#314906388#0(0"0(0#0#59"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/two.wav8600217504#540"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/two.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CCpResource build/Debug-iphonesimulator/NumberToString.app/zero.wav Classes/zero.wav
+s314907314.278364
+e314907314.284044
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NumberToString.app/zero.wav
+xClasses/zero.wav
+lSLF07#2@21"Copy Classes/zero.wav314907314#314907314#0(0"0(0#0#60"/Users/alex/xCode/git/Jitsik/NumberToString/Classes/zero.wav8614179264#541"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/alex/xCode/git/Jitsik/NumberToString/Classes/zero.wav /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
 CGenerateDSYMFile /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString
 s314856810.906853
 e314856810.922520
@@ -244,6 +1154,15 @@ xGenerateDSYMFile
 x/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM
 x/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString
 lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/NumberToString.app.dSYM build/Debug-iphonesimulator/NumberToString.app/NumberToString314856810#314856810#0(0"0(0#0#96"/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString8619269664#437"    cd /Users/alex/Desktop/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/usr/bin/dsymutil /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString -o /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM0#
+
+CGenerateDSYMFile /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString
+s314907895.761576
+e314907895.780607
+r1
+xGenerateDSYMFile
+x/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM
+x/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/NumberToString.app.dSYM build/Debug-iphonesimulator/NumberToString.app/NumberToString314907895#314907895#0(0"0(0#0#105"/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString8614125088#464"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/usr/bin/dsymutil /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString -o /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app.dSYM0#
 
 CLd /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString normal i386
 s314856810.881253
@@ -255,6 +1174,16 @@ xnormal
 xi386
 lSLF07#2@101"Link /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString314856810#314856810#0(0"0(0#0#0"8622306816#975"    cd /Users/alex/Desktop/NumberToString    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator -F/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator -filelist /Users/alex/Desktop/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToString.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString0#
 
+CLd /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString normal i386
+s314907895.734879
+e314907895.761475
+r1
+xLd
+x/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString
+xnormal
+xi386
+lSLF07#2@110"Link /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString314907895#314907895#0(0"0(0#0#0"8614335808#1044"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -F/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -filelist /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/Objects-normal/i386/NumberToString.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AVFoundation -o /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/NumberToString0#
+
 CProcessInfoPlistFile /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/Info.plist NumberToString-Info.plist
 s314853514.446745
 e314853514.472675
@@ -263,6 +1192,22 @@ xProcessInfoPlistFile
 x/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/Info.plist
 xNumberToString-Info.plist
 lSLF07#2@33"Process NumberToString-Info.plist314853514#314853514#0(0"0(0#0#60"/Users/alex/Desktop/NumberToString/NumberToString-Info.plist29555366482477168#518"    cd /Users/alex/Desktop/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NumberToString-Info.plist -genpkginfo /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app/Info.plist NumberToString-Info.plist
+r0
+
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch.gch NumberToString_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s314906388.538869
+e314906390.119479
+r1
+xProcessPCH
+x/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch.gch
+xNumberToString_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile NumberToString_Prefix.pch314906388#314906390#0(0"0(0#0#69"/Users/alex/xCode/git/Jitsik/NumberToString/NumberToString_Prefix.pch8622573536#2049"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv LANG en_US.US-ASCII    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-generated-files.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-own-target-headers.hmap -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-all-target-headers.hmap -iquote /Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/NumberToString-project-headers.hmap -F/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator -I/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/include -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources/i386 -I/Users/alex/xCode/git/Jitsik/NumberToString/build/NumberToString.build/Debug-iphonesimulator/NumberToString.build/DerivedSources -c /Users/alex/xCode/git/Jitsik/NumberToString/NumberToString_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fatccyhvcuxmmfhglbsxnsrkhyfs/NumberToString_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NumberToString_Prefix-fqamexpzmacnfncyyxkfknmpijpw/NumberToString_Prefix.pch.gch NumberToString_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s314853514.929716
@@ -284,4 +1229,12 @@ r1
 xTouch
 x/Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app
 lSLF07#2@87"Touch /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app314856810#314856810#0(0"0(0#0#0"8619005888#307"    cd /Users/alex/Desktop/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alex/Desktop/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
+
+CTouch /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app
+s314907895.780687
+e314907895.783943
+r1
+xTouch
+x/Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app
+lSLF07#2@96"Touch /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app314907895#314907895#0(0"0(0#0#0"8613924512#325"    cd /Users/alex/xCode/git/Jitsik/NumberToString    setenv PATH "/Xcodes/Developer11072010/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcodes/Developer11072010/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/alex/xCode/git/Jitsik/NumberToString/build/Debug-iphonesimulator/NumberToString.app0#
 

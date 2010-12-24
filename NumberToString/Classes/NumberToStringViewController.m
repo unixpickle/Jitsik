@@ -32,7 +32,6 @@
 // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
 - (void)viewDidLoad {
     [super viewDidLoad];
-	NSLog(@"%@", [[NSNumber numberWithInt:103949] humanReadableString]);
 }
 
 - (IBAction)humanize:(id)sender {
@@ -49,6 +48,7 @@
 	NSNumber * n = [NSNumber numberWithInt:iv];
 	NSString * str = [n humanReadableString];
 	[humanReadable setText:str];
+	[n speekString];
 }
 
 /*

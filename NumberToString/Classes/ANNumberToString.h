@@ -7,6 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <AVFoundation/AVFoundation.h>
+#import "ANWAVFile.h"
+#import "PlayerReleaseDelegate.h"
 
 
 @interface ANNumberToString : NSObject {
@@ -21,5 +24,7 @@
 @interface NSNumber (ANNumberToString)
 
 - (NSString *)humanReadableString;
+- (ANWAVFile *)humanAudioFile;
+- (void)speekString;
 
 @end
