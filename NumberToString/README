@@ -1,0 +1,9 @@
+This application adds a category to NSNumber that converts a number to an english string.  Example:
+
+512 = Five Hundred and Twelve
+
+The code to do this is simple:
+
+	NSNumber * n = [NSNumber numberWithInt:512];
+	NSString * desc = [n humanReadableString];
+	NSLog(@"512 = %@", desc);

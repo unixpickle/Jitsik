@@ -148,6 +148,132 @@ c000000004D0FDDB3000000000000A75B
 t1292885427
 s42843
 
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/CustomImageSelector.h
+c000000004D111E170000000000000468
+t1292967447
+s1128
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/CustomImageSelector.m
+c000000004D111F130000000000002B0F
+t1292967699
+s11023
+i"CustomImageSelector.h"
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/English.lproj/Credits.rtf
+c000000004D0FDD0700000000000001F1
+t1292885255
+s497
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/English.lproj/InfoPlist.strings
+c000000004D0FB20B000000000000002D
+t1292874251
+s45
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/English.lproj/MainMenu.xib
+c000000004D0FB20B000000000002ADF4
+t1292874251
+s175604
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/English.lproj/MyDocument.xib
+c000000004D0FE2FB000000000000FFCD
+t1292886779
+s65485
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/MyDocument.h
+c000000004D0FE09C00000000000004B8
+t1292886172
+s1208
+i<Cocoa/Cocoa.h>
+i"CustomImageSelector.h"
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/MyDocument.m
+c000000004D1031470000000000002E80
+t1292906823
+s11904
+i"MyDocument.h"
+i<sys/stat.h>
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/ZoomifyMaker_Prefix.pch
+c000000004D0FB20B000000000000009B
+t1292874251
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app
+t1292967702
+s102
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Info.plist
+t1292885648
+s1497
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/MacOS/ZoomifyMaker
+t1292967702
+s52504
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/PkgInfo
+t1292885648
+s8
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/Credits.rtf
+t1292885648
+s497
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292874915
+s92
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292874915
+s33336
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/MyDocument.nib
+t1292886785
+s10457
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/docicon.icns
+t1292885648
+s108808
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/zoomifymac.icns
+t1292885648
+s42843
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/CustomImageSelector.o
+t1292967702
+s57796
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/MyDocument.o
+t1292967594
+s64560
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/ZoomifyMaker.LinkFileList
+c000000004D0FB4A30000000000000165
+t1292874915
+s357
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/main.o
+t1292874919
+s5008
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/docicon.icns
+c000000004D0FDE40000000000001A908
+t1292885568
+s108808
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/main.m
+c000000004D0FB20B0000000000000101
+t1292874251
+s257
+i<Cocoa/Cocoa.h>
+
+N/Users/alex/xCode/git/Jitsik/ZoomifyMaker/zoomifymac.icns
+c000000004D0FDDB3000000000000A75B
+t1292885427
+s42843
+
 N/Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk
 c000000004CAA740B00000000000000EE
 t1286239243
@@ -172,6 +298,10 @@ N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/Shared
 t1292874919
 s54314768
 
+N/var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZoomifyMaker_Prefix-ehxfrfxifddwywedstfangjvefhx/ZoomifyMaker_Prefix.pch.gch
+t2
+s0
+
 NZoomifyMaker-Info.plist
 c000000004D0FDE8900000000000005F9
 t1292885641
@@ -194,6 +324,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/alex/Desktop/ZoomifyMaker/CustomImageSelector.m314660502#314660502#0(0"0(0#0#54"/Users/alex/Desktop/ZoomifyMaker/CustomImageSelector.m8623777248#1544"    cd /Users/alex/Desktop/ZoomifyMaker    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-generated-files.hmap -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-own-target-headers.hmap -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-all-target-headers.hmap -iquote /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-project-headers.hmap -F/Users/alex/Desktop/ZoomifyMaker/build/Debug -I/Users/alex/Desktop/ZoomifyMaker/build/Debug/include -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZoomifyMaker_Prefix-cznnnpwtkchlridnxkkghsknqeqi/ZoomifyMaker_Prefix.pch -c /Users/alex/Desktop/ZoomifyMaker/CustomImageSelector.m -o /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/CustomImageSelector.o0#
 
+CCompileC build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/CustomImageSelector.o /Users/alex/xCode/git/Jitsik/ZoomifyMaker/CustomImageSelector.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/MyDocument.o /Users/alex/Desktop/ZoomifyMaker/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s314660394.192713
 e314660394.535674
@@ -210,6 +343,9 @@ o/Users/alex/Desktop/ZoomifyMaker/MyDocument.m:38: warning: class 'MyDocument' d
 o/Users/alex/Desktop/ZoomifyMaker/MyDocument.m:39: warning: class 'MyDocument' does not implement the 'NSTableViewDelegate' protocol
 lSLF07#2@53"Compile /Users/alex/Desktop/ZoomifyMaker/MyDocument.m314660394#314660394#0(370"/Users/alex/Desktop/ZoomifyMaker/MyDocument.m: In function '-[MyDocument windowControllerDidLoadNib:]':/Users/alex/Desktop/ZoomifyMaker/MyDocument.m:38: warning: class 'MyDocument' does not implement the 'NSTableViewDataSource' protocol/Users/alex/Desktop/ZoomifyMaker/MyDocument.m:39: warning: class 'MyDocument' does not implement the 'NSTableViewDelegate' protocol2(22@74"Class 'MyDocument' does not implement the 'NSTableViewDataSource' protocol314660394#104#134#0(6@45"/Users/alex/Desktop/ZoomifyMaker/MyDocument.m314599623#38#0#38#0#45"class '*' does not implement the '*' protocol0(22@72"Class 'MyDocument' does not implement the 'NSTableViewDelegate' protocol314660394#238#132#0(6@45"/Users/alex/Desktop/ZoomifyMaker/MyDocument.m314599623#39#0#39#0#45"class '*' does not implement the '*' protocol0(0#0#45"/Users/alex/Desktop/ZoomifyMaker/MyDocument.m8625024576#1526"    cd /Users/alex/Desktop/ZoomifyMaker    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-generated-files.hmap -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-own-target-headers.hmap -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-all-target-headers.hmap -iquote /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-project-headers.hmap -F/Users/alex/Desktop/ZoomifyMaker/build/Debug -I/Users/alex/Desktop/ZoomifyMaker/build/Debug/include -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZoomifyMaker_Prefix-cznnnpwtkchlridnxkkghsknqeqi/ZoomifyMaker_Prefix.pch -c /Users/alex/Desktop/ZoomifyMaker/MyDocument.m -o /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/MyDocument.o0#
 
+CCompileC build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/MyDocument.o /Users/alex/xCode/git/Jitsik/ZoomifyMaker/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/main.o /Users/alex/Desktop/ZoomifyMaker/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s314567719.166170
 e314567719.459638
@@ -222,6 +358,9 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@47"Compile /Users/alex/Desktop/ZoomifyMaker/main.m314567719#314567719#0(0"0(0#0#39"/Users/alex/Desktop/ZoomifyMaker/main.m8613440672#1514"    cd /Users/alex/Desktop/ZoomifyMaker    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-generated-files.hmap -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-own-target-headers.hmap -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-all-target-headers.hmap -iquote /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-project-headers.hmap -F/Users/alex/Desktop/ZoomifyMaker/build/Debug -I/Users/alex/Desktop/ZoomifyMaker/build/Debug/include -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/DerivedSources -include /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZoomifyMaker_Prefix-cznnnpwtkchlridnxkkghsknqeqi/ZoomifyMaker_Prefix.pch -c /Users/alex/Desktop/ZoomifyMaker/main.m -o /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/main.o /Users/alex/xCode/git/Jitsik/ZoomifyMaker/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileXIB /Users/alex/Desktop/ZoomifyMaker/English.lproj/MainMenu.xib
 s314567715.309290
@@ -239,6 +378,12 @@ xCompileXIB
 x/Users/alex/Desktop/ZoomifyMaker/English.lproj/MyDocument.xib
 lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib314579585#314579586#0(0"0(0#0#61"/Users/alex/Desktop/ZoomifyMaker/English.lproj/MyDocument.xib8614781952#385"    cd /Users/alex/Desktop/ZoomifyMaker    /Xcodes/Developer11072010/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/MyDocument.nib /Users/alex/Desktop/ZoomifyMaker/English.lproj/MyDocument.xib --sdk /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk0#
 
+CCompileXIB /Users/alex/xCode/git/Jitsik/ZoomifyMaker/English.lproj/MainMenu.xib
+r0
+
+CCompileXIB /Users/alex/xCode/git/Jitsik/ZoomifyMaker/English.lproj/MyDocument.xib
+r0
+
 CCopyStringsFile /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
 s314567715.144289
 e314567715.309200
@@ -247,6 +392,9 @@ xCopyStringsFile
 x/Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/InfoPlist.strings
 xEnglish.lproj/InfoPlist.strings
 lSLF07#2@36"Copy English.lproj/InfoPlist.strings314567715#314567715#0(0"0(0#0#64"/Users/alex/Desktop/ZoomifyMaker/English.lproj/InfoPlist.strings8623799392#373"    cd /Users/alex/Desktop/ZoomifyMaker    setenv ICONV /usr/bin/iconv    /Xcodes/Developer11072010/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
 
 CCpResource build/Debug/ZoomifyMaker.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
 s314578448.145603
@@ -285,6 +433,9 @@ xnormal
 xx86_64
 lSLF07#2@94"Link /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/MacOS/ZoomifyMaker314660502#314660502#0(0"0(0#0#0"8624203584#567"    cd /Users/alex/Desktop/ZoomifyMaker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -L/Users/alex/Desktop/ZoomifyMaker/build/Debug -F/Users/alex/Desktop/ZoomifyMaker/build/Debug -filelist /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/Objects-normal/x86_64/ZoomifyMaker.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/MacOS/ZoomifyMaker0#
 
+CLd /Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/MacOS/ZoomifyMaker normal x86_64
+r0
+
 CProcessInfoPlistFile /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Info.plist ZoomifyMaker-Info.plist
 s314578448.136961
 e314578448.145480
@@ -293,6 +444,9 @@ xProcessInfoPlistFile
 x/Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Info.plist
 xZoomifyMaker-Info.plist
 lSLF07#2@31"Process ZoomifyMaker-Info.plist314578448#314578448#0(0"0(0#0#56"/Users/alex/Desktop/ZoomifyMaker/ZoomifyMaker-Info.plist8610330720#307"    cd /Users/alex/Desktop/ZoomifyMaker    builtin-infoPlistUtility ZoomifyMaker-Info.plist -genpkginfo /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app/Contents/Info.plist ZoomifyMaker-Info.plist
+r0
 
 CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZoomifyMaker_Prefix-cznnnpwtkchlridnxkkghsknqeqi/ZoomifyMaker_Prefix.pch.gch ZoomifyMaker_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s314567715.686527
@@ -307,6 +461,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile ZoomifyMaker_Prefix.pch314567715#314567719#0(0"0(0#0#56"/Users/alex/Desktop/ZoomifyMaker/ZoomifyMaker_Prefix.pch8629433344#1421"    cd /Users/alex/Desktop/ZoomifyMaker    setenv LANG en_US.US-ASCII    /Xcodes/Developer11072010/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcodes/Developer11072010/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-generated-files.hmap -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-own-target-headers.hmap -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-all-target-headers.hmap -iquote /Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/ZoomifyMaker-project-headers.hmap -F/Users/alex/Desktop/ZoomifyMaker/build/Debug -I/Users/alex/Desktop/ZoomifyMaker/build/Debug/include -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/DerivedSources/x86_64 -I/Users/alex/Desktop/ZoomifyMaker/build/ZoomifyMaker.build/Debug/ZoomifyMaker.build/DerivedSources -c /Users/alex/Desktop/ZoomifyMaker/ZoomifyMaker_Prefix.pch -o /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZoomifyMaker_Prefix-cznnnpwtkchlridnxkkghsknqeqi/ZoomifyMaker_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/CW/CW-brwKPHhWCoBqjsH0UTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ZoomifyMaker_Prefix-ehxfrfxifddwywedstfangjvefhx/ZoomifyMaker_Prefix.pch.gch ZoomifyMaker_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CTouch /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app
 s314660502.678519
 e314660502.680901
@@ -314,4 +471,7 @@ r1
 xTouch
 x/Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app
 lSLF07#2@67"Touch /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app314660502#314660502#0(0"0(0#0#0"8624060096#124"    cd /Users/alex/Desktop/ZoomifyMaker    /usr/bin/touch -c /Users/alex/Desktop/ZoomifyMaker/build/Debug/ZoomifyMaker.app0#
+
+CTouch /Users/alex/xCode/git/Jitsik/ZoomifyMaker/build/Debug/ZoomifyMaker.app
+r0
 
